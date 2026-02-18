@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "FyberAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/fyber-adapter/5.5.0/ISFyberAdapter5.5.0.zip",
-      checksum: "09a6868afefeef983a55bc30b78cab0e4489b303e910a9fec94596bffc1252aa"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/fyber-adapter/5.6.0/ISFyberAdapter5.6.0.zip",
+      checksum: "358f3a53a08a46c5a3f28fbedaf386b928fab38ade845468f8abcba0a5e08bf7"
     )
   ]
 )
