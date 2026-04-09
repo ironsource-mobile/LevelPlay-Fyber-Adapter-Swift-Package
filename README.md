@@ -30,7 +30,7 @@ dependencies: [
 
 This package includes:
 - LevelPlay iOS SDK (Unity Mediation SDK)
-- Digital Turbine Exchange SDK v8.4.3
+- Digital Turbine Exchange SDK
 
 ## Documentation
 
