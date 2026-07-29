@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "FyberAdapter", targets: ["FyberAdapter"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/inner-active/DTExchangeSDK-iOS-SPM", exact: "8.4.8"),
+    .package(url: "https://github.com/inner-active/DTExchangeSDK-iOS-SPM", exact: "8.4.9"),
     .package(url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package", "9.0.0"..<"10.0.0"),
   ],
   targets: [
@@ -22,8 +22,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "FyberAdapterSDK",
-      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/fyber-adapter/5.9.0/ISFyberAdapter5.9.0.zip",
-      checksum: "985c081a3c3c080833f84720392b6848e27d1d1d764e0738cd8764188056783f"
+      url: "https://raw.githubusercontent.com/ironsource-mobile/iOS-adapters/master/fyber-adapter/5.10.0/ISFyberAdapter5.10.0.zip",
+      checksum: "23968c1828a283e6f14337fe1e3ca509dbbf2a7e332bf143b44f832817078c94"
     )
   ]
 )
